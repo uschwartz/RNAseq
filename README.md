@@ -15,9 +15,8 @@ git clone https://github.com/uschwartz/RNAseq.git
 ```
 
 ### Get help
-The pipeline comes with a ready-to-use test data set.
 ```bash
-nextflow run path2nucMACC/RNAseq --help
+nextflow run path2RNAseq/RNAseq --help
 ```
 
 
